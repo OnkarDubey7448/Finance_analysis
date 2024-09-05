@@ -2,10 +2,6 @@
 
 A project that utilizes Microsoft PowerBI to analyze personal financial data and visualize expenses through an interactive dashboard.
 
-> _"Data analysis is not just about presenting data, but to build a story and create a meaningful narrative from the raw data. At the end of the day, that's what analytics is all about - not about writing code, not about crunching numbers, not about memorizing formula syntax - it's about deriving meaning and context from the data and, more importantly, using it to make real change."_
-> _- Chris Dutton, Maven Analytics_
-
-
 ## Problem Description
 
 As one should, I have been keeping track of all my daily spending using Microsoft Excel. Using basic sorting/filtering in Excel I'm able to see a very high-level overview of my spending. In order to perform data analysis at a more deeper level, we will turn my static Excel data into dynamic PowerBI dashboards.
@@ -145,20 +141,6 @@ For future improvement, we can consider the following ideas:
 - Think of new informative metrics that may be useful.
 - Create new or modify existing dashboards for ease-of-use on mobile/tablet devices. (Can be done in Power BI Desktop)
 
-
-## Author
-
-- **AJ Singh** (https://github.com/aj112358/)
-
-
-## Acknowledgements
-
-- Creators of Microsoft PowerBI - It's a pretty amazing tool!
-- All the kind and patient cashiers who took the time to print out a receipt for me.
-- Viewers of my GitHub page...Thanks for visiting!
-
-
-<!-- Image References -->
 
 [ExecSumm]: images/executive_summary.png "Main summary of data"
 [Granular]: images/granular_info.png "Second dashboard for detailed inormation"
